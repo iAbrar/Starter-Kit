@@ -1,7 +1,6 @@
 # Project Name
 >Description of Project
-Description of Project
-
+This is a starter template for web project contains index.html(bootstrap 4) and js,images,css folders
 ## Project Screen Shot(s)
 ![]()
 
