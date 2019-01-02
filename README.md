@@ -7,9 +7,8 @@ Description of Project
 
 ## Installation and Setup Instructions
 1. Download the project or clone the repository by
-   ```bash
-some command here
-   ```
+`some command here`
+
 
 
 ## API Reference
